@@ -20,3 +20,5 @@ npm run test
 ```
 
 For detailed explanation on how things work, checkout the [CLI Readme](https://github.com/developit/preact-cli/blob/master/README.md).
+
+## Issue https://github.com/preactjs/enzyme-adapter-preact-pure/issues/103
